@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "HIGHLAND",
+  "base_artist": "百足",
+  "createdAt": "2026-01-06T03:14:02.463031Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Concerning the UFO Sighting Near Highland, Illinois",
+      "artist": "Sufjan Stevens",
+      "has_synced": true,
+      "path": "select/01_Concerning_the_UFO_Sighting_Near_Highland,_Illinois_Sufjan_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stripped (Highland Mix)",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/02_Stripped_(Highland_Mix)_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Highland Glory (The Eternal Fight)",
+      "artist": "Running Wild",
+      "has_synced": false,
+      "path": "select/03_Highland_Glory_(The_Eternal_Fight)_Running_Wild.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Highland Tears",
+      "artist": "Grave Digger",
+      "has_synced": true,
+      "path": "select/04_Highland_Tears_Grave_Digger.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Summer, Highland Falls",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/05_Summer,_Highland_Falls_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Summer, Highland Falls",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/06_Summer,_Highland_Falls_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Highland",
+      "artist": "Blackmore's Night",
+      "has_synced": true,
+      "path": "select/07_Highland_Blackmore's_Night.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Summer, Highland Falls - Live At Shea, 2008",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/08_Summer,_Highland_Falls_-_Live_At_Shea,_2008_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Summer, Highland Falls - Live at Shea Stadium, Queens, NY - July 2008",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/09_Summer,_Highland_Falls_-_Live_at_Shea_Stadium,_Queens,_NY_-_July_2008_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Summer, Highland Falls (Album Version)",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/10_Summer,_Highland_Falls_(Album_Version)_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Highland",
+      "artist": "Pyramaze",
+      "has_synced": true,
+      "path": "select/11_The_Highland_Pyramaze.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Summer, Highland Falls - Live",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/12_Summer,_Highland_Falls_-_Live_Billy_Joel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HIGHLAND (feat. 韻マン & 炒炒)",
+      "artist": "百足",
+      "has_synced": false,
+      "path": "select/pl_01_HIGHLAND_(feat._韻マン_&_炒炒)_百足.txt"
+    }
+  ]
+}
